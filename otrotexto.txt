@@ -1,1 +1,9 @@
 Otro texto
+
+
+hacemos un cambio
+
+aca realizo un cambio y que pasa? 
+
+git status???
+
